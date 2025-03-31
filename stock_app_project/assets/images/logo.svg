@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <!-- Background Rectangle -->
+  <rect width="300" height="100" rx="10" fill="#f8f9fa"/>
+  
+  <!-- Stock Chart Line -->
+  <path d="M20,80 L50,60 L80,70 L110,30 L140,45 L170,35 L200,25 L230,40 L260,20 L280,40" 
+        stroke="#2E7D32" 
+        stroke-width="3" 
+        fill="none" 
+        stroke-linejoin="round"/>
+  
+  <!-- App Name -->
+  <text x="150" y="90" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#212121">STOCK ANALYSIS DASHBOARD</text>
+  
+  <!-- Main Icon -->
+  <g transform="translate(150, 45)">
+    <!-- Outer Circle -->
+    <circle cx="0" cy="0" r="30" fill="#e8f5e9" stroke="#2E7D32" stroke-width="2"/>
+    
+    <!-- Up Arrow -->
+    <path d="M-15,10 L0,-15 L15,10" fill="none" stroke="#2E7D32" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Horizontal Line -->
+    <line x1="-15" y1="10" x2="15" y2="10" stroke="#2E7D32" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Small Chart Lines -->
+    <path d="M-10,0 L-5,5 L0,0 L5,-5 L10,0" stroke="#4CAF50" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

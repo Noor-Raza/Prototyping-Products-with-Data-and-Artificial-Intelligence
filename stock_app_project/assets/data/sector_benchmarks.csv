@@ -1,0 +1,12 @@
+Sector,Ticker,Name,YTD_Return,PE_Ratio,Dividend_Yield
+Technology,XLK,Technology Select Sector SPDR Fund,17.5,28.4,0.8
+Healthcare,XLV,Health Care Select Sector SPDR Fund,2.1,21.8,1.7
+Financial,XLF,Financial Select Sector SPDR Fund,9.3,16.5,1.9
+Consumer Discretionary,XLY,Consumer Discretionary Select Sector SPDR Fund,8.7,26.2,0.9
+Consumer Staples,XLP,Consumer Staples Select Sector SPDR Fund,1.2,20.1,2.5
+Energy,XLE,Energy Select Sector SPDR Fund,5.6,10.2,3.8
+Industrial,XLI,Industrial Select Sector SPDR Fund,7.8,18.9,1.5
+Materials,XLB,Materials Select Sector SPDR Fund,3.2,16.8,2.1
+Utilities,XLU,Utilities Select Sector SPDR Fund,-1.8,16.2,3.2
+Real Estate,XLRE,Real Estate Select Sector SPDR Fund,0.9,28.5,3.6
+Communication Services,XLC,Communication Services Select Sector SPDR Fund,11.4,24.6,0.7
