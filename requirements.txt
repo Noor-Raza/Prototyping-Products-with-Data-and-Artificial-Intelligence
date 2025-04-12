@@ -3,6 +3,7 @@ streamlit==1.44.1
 pandas==2.2.3
 numpy==2.2.4
 pillow==11.2.1
+python-dotenv==1.0.1  # Added for .env file support
 
 # Visualization Libraries
 plotly==5.22.0
