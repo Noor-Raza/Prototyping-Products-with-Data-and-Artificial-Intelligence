@@ -1,0 +1,30 @@
+# Core Libraries
+streamlit==1.44.1
+pandas==2.2.3
+numpy==2.2.4
+pillow==11.2.1
+
+# Visualization Libraries
+plotly==5.22.0
+matplotlib==3.9.0
+
+# Financial Data and Analysis
+yfinance==0.2.38
+prophet==1.1.5
+scikit-learn==1.4.2
+
+# Machine Learning and NLP
+cohere==5.3.3
+transformers==4.41.1
+textblob==0.17.1
+
+# Additional Utilities
+requests==2.32.3
+python-dateutil==2.9.0.post0
+
+# Optional Dependencies
+praw==7.7.1  # Reddit API
+openpyxl==3.1.2  # Excel file support
+
+# Required for some Streamlit functionalities
+altair==5.5.0
