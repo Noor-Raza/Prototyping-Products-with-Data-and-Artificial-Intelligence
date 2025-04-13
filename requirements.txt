@@ -3,7 +3,7 @@ streamlit==1.44.1
 pandas==2.2.3
 numpy==2.2.4
 pillow==11.2.1
-python-dotenv==1.0.1  # Added for .env file support
+python-dotenv==1.0.1
 
 # Visualization Libraries
 plotly==5.22.0
@@ -18,15 +18,15 @@ scikit-learn==1.4.2
 cohere==5.3.3
 transformers==4.41.1
 textblob==0.17.1
-openai==1.30.1  # Added OpenAI library
+openai==1.30.1
 
 # Additional Utilities
 requests==2.32.3
 python-dateutil==2.9.0.post0
 
 # Optional Dependencies
-praw==7.7.1  # Reddit API
-openpyxl==3.1.2  # Excel file support
+praw==7.7.1
+openpyxl==3.1.2
 
-# Required for some Streamlit functionalities
+# Required for Streamlit
 altair==5.5.0
